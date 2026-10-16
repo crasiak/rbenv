@@ -1,3 +1,5 @@
+> **Personal fork — not intended for public consumption.** This is a personal working copy of [rbenv/rbenv](https://github.com/rbenv/rbenv), kept for experiments. It is unmaintained and unsupported, may diverge from upstream or be rewritten at any time, and nothing here is released for others to use. Use the upstream project instead.
+
 # Simple Ruby Version Management: rbenv
 
 rbenv lets you easily switch between multiple versions of Ruby. It's
